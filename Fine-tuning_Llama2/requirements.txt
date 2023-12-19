@@ -1,0 +1,4 @@
+huggingface_hub
+autotrain-advanced
+text_generation
+sentence-transformers

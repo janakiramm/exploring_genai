@@ -1,0 +1,3 @@
+huggingface-hub
+transformers
+sentence_transformers

@@ -1,0 +1,4 @@
+<s>[INST] <<SYS>>
+{{system message}}
+<</SYS>>
+{{message}} [/INST] {{answer}} </s>

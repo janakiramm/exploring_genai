@@ -1,0 +1,6 @@
+huggingface-hub
+transformers
+sentence_transformers
+chromadb
+ipywidgets
+pandas
